@@ -11,7 +11,7 @@
     <img width="46%" align="right" src="https://github-readme-stats.vercel.app/api?username=Petri-Hub&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 <div>
   <img align="center" alt="JavaScript Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
