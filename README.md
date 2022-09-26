@@ -1,11 +1,3 @@
-<h3>Olá 👋 </h3>
-
-<p>Me chamo Fernando, tenho 18 anos e <strong>adoro programar</strong>.</p>
-
-<p>Estou procurando novas oportunidades para começar a minha carreira como <strong>Desenvolvedor Front-End Junior</strong>.</p>
-<p>Possuo conhecimento nas linguagens: <strong>HTML, CSS, JavaScript, TypeScript, React.js, SASS e GIT</strong>!</p>
-<h1></h1>
-<br>
 <div align="center">
     <img width="46%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Petri-Hub&layout=compact&langs_count=7&theme=dark&"/>
     <img width="46%" align="right" src="https://github-readme-stats.vercel.app/api?username=Petri-Hub&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
