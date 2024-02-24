@@ -2,7 +2,7 @@
    <img 
       width="100%" 
       alt="Petri presentation"
-      src="https://i.imgur.com/ZFWDYqu.png"
+      src="https://i.imgur.com/hA2DLeH.png"
    />
    <img 
       width="52%" 
