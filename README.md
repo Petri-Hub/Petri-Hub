@@ -16,9 +16,15 @@
    />
 </div>
 
+<br />
+<br />
+
 # 👋 About Me
 
 I'm a twenty-year-old **Brazilian Front-End developer** with a passion for crafting projects that solve my real-world problems. Currently on the road to become a proficient **Fullstack Developer** dedicating some of my free time to self-study. When not focused in learning, you'll find me either contributing at **Allinsys** or pursuing my studies at **FAM University**.
+
+<br />
+<br />
 
 # ❤️ My passions
 
@@ -30,6 +36,8 @@ When not absorbed by programming in my studies you will often find me:
 - 🎧 Listening to Japanese music
 - 💻 Regretting to refactor some code
 
+<br />
+<br />
 
 # 🧑‍💻 What i've developed with
 
