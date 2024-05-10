@@ -30,13 +30,14 @@ When not absorbed by programming in my studies you will often find me:
 
 - 🏐 Playing volleyball
 - 🎮 Playing some indie games on PC
-- 📖 Reading books my girlfriend begged me to
+- 📕 Reading books my girlfriend begged me to
 - 🎧 Listening to Japanese music
 - 💻 Regretting to refactor some code
+- 📖 Catching up to some mangas
 
 <br />
 
-# 🧑‍💻 What i've developed with
+# ⌨️ What i've developed with
 
 <div>
    <img title="JavaScript" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
