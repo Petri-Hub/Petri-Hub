@@ -1,8 +1,8 @@
 <div>
    <img 
       width="100%" 
-      alt="Petri presentation"
-      src="https://i.imgur.com/hA2DLeH.png"
+      alt="Petri personal banner"
+      src="https://i.imgur.com/YR66Uco.png"
    />
    <img 
       width="52%" 
