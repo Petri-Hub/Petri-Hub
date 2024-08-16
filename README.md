@@ -18,13 +18,13 @@
 
 <br />
 
-# 👋 About Me
+# About Me
 
-I'm a twenty-year-old **Brazilian Front-End developer** with a passion for crafting projects that solve my real-world problems. Currently on the road to become a proficient **Fullstack Developer** dedicating some of my free time to self-study. When not focused in learning, you'll find me either contributing at **Allinsys** or pursuing my studies at **FAM University**.
+I'm a twenty-year-old **Brazilian Front-End developer** with a passion for crafting unique projects. Currently on the road to become a proficient **Fullstack Developer** dedicating some of my free time to self-study. When not focused in learning, you'll find me either contributing at **Allinsys** or pursuing my studies at **FAM University**.
 
 <br />
 
-# ❤️ My passions
+# My passions
 
 When not absorbed by programming in my studies you will often find me:
 
@@ -37,7 +37,7 @@ When not absorbed by programming in my studies you will often find me:
 
 <br />
 
-# ⌨️ What i've developed with
+# What i've developed with
 
 <div>
    <img title="JavaScript" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
