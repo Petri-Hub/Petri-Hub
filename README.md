@@ -89,3 +89,7 @@ Techologies i've used in my development career, either by courses, projects, or 
       </tr>
    </tbody>
 </table>
+
+> [!TIP]
+> Place your mouse over a technology to show its name.
+
