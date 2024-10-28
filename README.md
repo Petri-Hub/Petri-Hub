@@ -43,8 +43,8 @@ Techologies i've used in my development career, either by courses, projects, or 
 
 <table width="100%">
    <thead>
-      <th>Area</th>
-      <th>Techologies</th>
+      <th width="250">Area</th>
+      <th width="750px">Techologies</th>
    </thead>
    <tbody>
       <tr>
@@ -85,11 +85,9 @@ Techologies i've used in my development career, either by courses, projects, or 
             <img alt="Vite" title="Vite" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
             <img alt="Grunt" title="Grunt" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grunt/grunt-original.svg" />
             <img alt="ESLint" title="ESLint" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" />
+            <img alt="Figma" title="Figma" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
          </td>
       </tr>
    </tbody>
 </table>
-
-> [!TIP]
-> Place your mouse over a technology to show its name.
 
