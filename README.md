@@ -39,7 +39,7 @@ When not absorbed by programming in my studies you will often find me:
 
 # What i've developed with
 
-Techologies i've used in my development career, either by courses, projects, or working at Allinsys.
+Techologies i've used in my development career, either by courses, projects, or at work.
 
 <table width="100%">
    <thead>
