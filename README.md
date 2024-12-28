@@ -68,6 +68,8 @@ Techologies i've used in my development career, either by courses, projects, or 
             <img alt="Express.js" title="Express.js" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
             <img alt="Mongoose" title="Mongoose" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" />
             <img alt="Sequelize" title="Sequelize" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" />
+            <img alt="Java" title="Java" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
+            <img alt="Quarkus" title="Quarkus" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-plain.svg" />
          </td>
       </tr>
       <tr>
@@ -86,6 +88,7 @@ Techologies i've used in my development career, either by courses, projects, or 
             <img alt="Grunt" title="Grunt" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grunt/grunt-original.svg" />
             <img alt="ESLint" title="ESLint" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" />
             <img alt="Figma" title="Figma" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+            <img alt="Postman" title="Postman" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
          </td>
       </tr>
    </tbody>
