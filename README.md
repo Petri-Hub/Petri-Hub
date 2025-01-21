@@ -20,7 +20,10 @@
 
 # About Me
 
-I'm a twenty-year-old **Brazilian Front-End developer** with a passion for crafting unique projects. Currently on the road to become a proficient **Fullstack Developer** dedicating some of my free time to self-study. When not focused in learning, you'll find me either contributing at **Allinsys** or pursuing my studies at **FAM University**.
+I'm a twenty-year-old **Brazilian Fullstack Developer** that loves to try new stuff. Currently working as a Fullstack Developer at Globals and studying Computer Science at FAM University. 
+<br>
+<br>
+My personal dream is to develop and publish a indie game of mine.
 
 <br />
 
