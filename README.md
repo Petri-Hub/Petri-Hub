@@ -4,16 +4,6 @@
       alt="Petri personal banner"
       src="https://i.imgur.com/YR66Uco.png"
    />
-   <img
-      width="56.5%" 
-      alt="Petri Github stats"
-      src="https://github-readme-stats.vercel.app/api?username=Petri-Hub&show_icons=true&theme=dark&hide_border=true&border_radius=12&bg_color=000000&ring_color=79ff97"
-   />
-   <img
-      width="42.5%"
-      alt="Petri most used languages"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Petri-Hub&layout=compact&theme=dark&hide_border=true&border_radius=12&bg_color=000000"
-   />
 </div>
 
 <br />
