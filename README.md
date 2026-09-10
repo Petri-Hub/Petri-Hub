@@ -10,7 +10,7 @@
 
 # About Me
 
-I'm a twenty-year-old **Brazilian Fullstack Developer** that loves to try new stuff. Currently working as a Fullstack Developer at Globals and studying Computer Science at FAM University. 
+I'm a **Brazilian Fullstack Developer** that loves to try new stuff. Currently working as a Fullstack Developer at Globals and studying Computer Science at FAM University. 
 <br>
 <br>
 My personal dream is to develop and publish a indie game of mine.
