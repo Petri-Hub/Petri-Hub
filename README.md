@@ -34,6 +34,8 @@ With 4+ years in the industry, the last two on payment systems, I'm a software d
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="48" height="48" alt="Terraform" /><br>Terraform</td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" /><br>Docker</td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="48" height="48" alt="Ubuntu" /><br>Ubuntu</td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/wavetermdev/waveterm/main/assets/appicon-windows.svg" width="48" height="48" alt="Wave Terminal" /><br>Wave Terminal</td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/claude" width="48" height="48" alt="Claude Code" /><br>Claude Code</td>
   </tr>
 </table>
 
