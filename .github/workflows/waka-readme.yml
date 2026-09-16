@@ -1,0 +1,34 @@
+# Preenche a seção Activity do README do perfil com as estatísticas do Wakapi.
+# Vai em Petri-Hub/Petri-Hub/.github/workflows/waka-readme.yml
+#
+# Antes de rodar:
+#   1. Secret WAKATIME_API_KEY no repositório do perfil, com a chave da API do Wakapi
+#      (a mesma do ~/.wakatime.cfg das três máquinas).
+#   2. O README precisa ter os marcadores <!--START_SECTION:waka--> e <!--END_SECTION:waka-->,
+#      que já estão na seção Activity.
+name: Waka Readme
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # todo dia às 3h UTC, meia-noite em Brasília
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update Activity
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          API_BASE_URL: https://lab-wakapi.petri.zip/api
+          TIME_RANGE: last_30_days
+          LANG_COUNT: 7
+          BLOCKS: "░▒▓█"
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          CODE_LANG: rust
+          COMMIT_MESSAGE: "chore: atualizar estatisticas da semana"
