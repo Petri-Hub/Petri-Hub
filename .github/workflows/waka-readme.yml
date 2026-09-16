@@ -1,16 +1,8 @@
-# Preenche a seção Activity do README do perfil com as estatísticas do Wakapi.
-# Vai em Petri-Hub/Petri-Hub/.github/workflows/waka-readme.yml
-#
-# Antes de rodar:
-#   1. Secret WAKATIME_API_KEY no repositório do perfil, com a chave da API do Wakapi
-#      (a mesma do ~/.wakatime.cfg das três máquinas).
-#   2. O README precisa ter os marcadores <!--START_SECTION:waka--> e <!--END_SECTION:waka-->,
-#      que já estão na seção Activity.
 name: Waka Readme
 
 on:
   schedule:
-    - cron: "0 3 * * *"   # todo dia às 3h UTC, meia-noite em Brasília
+    - cron: "0 3 * * *"
   workflow_dispatch:
 
 jobs:
