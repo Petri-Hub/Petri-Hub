@@ -51,11 +51,11 @@ Other tools I've developed with, at work or in personal projects:
 
 ## Currently building
 
-> **🎵 [brian](https://github.com/Petri-Hub/brian)**
+> **🐦 [pepper](https://github.com/Petri-Hub/pepper)**
 >
-> A Telegram agent that pulls the audio out of videos. You send a link or a song name, pick a result, and the .mp3 comes back. Built on Vercel's Eve, with GPT reading the request and yt-dlp doing the extraction.
+> My personal assistant, an agent running in the homelab on Nous Research's Hermes. She talks on Telegram, Discord and voice, keeps my reminders, works my Gmail, Calendar and Drive, and opens pull requests as her own GitHub App, handing the big coding jobs to Claude Code in a Modal sandbox.
 >
-> `TypeScript` `Node.js` `Eve` `GPT` `yt-dlp` `Telegram Bot API`
+> `Hermes` `GPT` `MCP` `Modal` `Claude Code` `Docker` `Telegram Bot API` `Discord`
 
 > **🧰 [lab](https://github.com/Petri-Hub/lab)**
 >
