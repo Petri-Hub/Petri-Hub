@@ -51,17 +51,17 @@ Other tools I've developed with, at work or in personal projects:
 
 ## Currently building
 
-> **🐦 [pepper](https://github.com/Petri-Hub/pepper)**
->
-> My personal assistant, an agent running in the homelab on Nous Research's Hermes. She talks on Telegram, Discord and voice, keeps my reminders, works my Gmail, Calendar and Drive, and opens pull requests as her own GitHub App, handing the big coding jobs to Claude Code in a Modal sandbox.
->
-> `Hermes` `GPT` `MCP` `Modal` `Claude Code` `Docker` `Telegram Bot API` `Discord`
-
 > **🧰 [lab](https://github.com/Petri-Hub/lab)**
 >
 > A homelab running on a laptop, declared entirely in Terraform and Docker Compose. It hosts game servers, an agent and internal services, reachable through Tailscale and a one-time-code tunnel, with deduplicated backups to a pendrive and the cloud.
 >
 > `Terraform` `Docker Compose` `Tailscale` `Dozzle` `UpSnap` `Restic` `rclone` `Ofelia` `Ubuntu Server`
+
+> **🐦 [pepper](https://github.com/Petri-Hub/pepper)**
+>
+> My personal assistant, an agent running in the homelab on Nous Research's Hermes. She talks on Telegram, Discord and voice, keeps my reminders, works my Gmail, Calendar and Drive, and opens pull requests as her own GitHub App, handing the big coding jobs to Claude Code in a Modal sandbox.
+>
+> `Hermes` `GPT` `MCP` `Modal` `Claude Code` `Docker` `Telegram Bot API` `Discord`
 
 <br>
 
