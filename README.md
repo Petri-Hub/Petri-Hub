@@ -63,6 +63,12 @@ Other tools I've developed with, at work or in personal projects:
 >
 > `Hermes` `GPT` `MCP` `Modal` `Claude Code` `Docker` `Telegram Bot API` `Discord`
 
+> **🎓 [fam-mcp](https://github.com/Petri-Hub/fam-mcp)**
+>
+> A read-only MCP server for FAM's student portal. It signs in as the student and gives an AI assistant structured access to grades, absences, assignments, schedules, exams, messages and finances.
+>
+> `Python` `FastMCP` `MCP` `httpx` `Beautiful Soup` `uv`
+
 <br>
 
 ## Activity
