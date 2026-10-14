@@ -59,7 +59,7 @@ Other tools I've developed with, at work or in personal projects:
 
 > **🐦 [pepper](https://github.com/Petri-Hub/pepper)**
 >
-> My personal assistant, an agent running in the homelab on Nous Research's Hermes. She talks on Telegram, Discord and voice, keeps my reminders, works my Gmail, Calendar and Drive, and opens pull requests as her own GitHub App, handing the big coding jobs to Claude Code in a Modal sandbox.
+> My personal assistant, a Hermes agent in my homelab. She talks on Telegram, Discord and voice, handles reminders, Gmail, Calendar and Drive, and opens pull requests as her own GitHub App. She delegates larger coding jobs to Claude Code in a Modal sandbox.
 >
 > `Hermes` `GPT` `MCP` `Modal` `Claude Code` `Docker` `Telegram Bot API` `Discord`
 
