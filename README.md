@@ -76,15 +76,15 @@ Other tools I've developed with, at work or in personal projects:
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 54 hrs 54 mins
+Total Time: 51 hrs 34 mins
 
-Markdown          24 hrs 7 mins         ███████████░░░░░░░░░░░░░░   43.94 %
-Typescript        6 hrs 51 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 %
-Python            5 hrs 5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
-Java              3 hrs 26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
-Text              3 hrs 26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
-TSX               2 hrs 59 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
-Bash              2 hrs 28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
+Markdown          20 hrs 1 mins         █████████▓░░░░░░░░░░░░░░░   38.83 %
+Typescript        6 hrs 51 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.29 %
+Python            5 hrs 11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.06 %
+Java              3 hrs 26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
+Text              3 hrs 13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
+Html              3 hrs 9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
+TSX               2 hrs 59 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
 ```
 
 <!--END_SECTION:waka-->
