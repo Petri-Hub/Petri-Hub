@@ -69,6 +69,12 @@ Other tools I've developed with, at work or in personal projects:
 >
 > `Python` `FastMCP` `MCP` `httpx` `Beautiful Soup` `uv`
 
+> **🧪 [roblox-with-swe](https://github.com/Petri-Hub/roblox-with-swe)**
+>
+> A Roblox game built like any other software project: Luau in Git, a pinned toolchain, linting, and Jest regression tests running in Studio on Linux. Friends and an agent contribute through reviewed pull requests, with staging and production releases to come.
+>
+> `Luau` `Roblox Studio` `Rojo` `Rokit` `Wally` `StyLua` `Selene` `Jest Roblox` `GitHub Actions` `Vinegar`
+
 <br>
 
 ## Activity
