@@ -49,7 +49,7 @@ Other tools I've developed with, at work or in personal projects:
 
 <br>
 
-## Currently building
+## Working on
 
 > **🧰 [lab](https://github.com/Petri-Hub/lab)**
 >
@@ -74,6 +74,12 @@ Other tools I've developed with, at work or in personal projects:
 > A Roblox game built like any other software project: Luau in Git, a pinned toolchain, linting, and Jest regression tests running in Studio on Linux. Friends and an agent contribute through reviewed pull requests, with staging and production releases to come.
 >
 > `Luau` `Roblox Studio` `Rojo` `Rokit` `Wally` `StyLua` `Selene` `Jest Roblox` `GitHub Actions` `Vinegar`
+
+> **📦 [roblox-assets-mcp](https://github.com/Petri-Hub/roblox-assets-mcp)**
+>
+> A local MCP server that helps an AI assistant find reusable Roblox Creator Store assets. It searches models, audio and more, reads details and 2D previews, and returns temporary download URLs for the agent to fetch in its own workspace.
+>
+> `Python` `FastMCP` `MCP` `httpx` `Pydantic` `uv` `Roblox Open Cloud`
 
 <br>
 
