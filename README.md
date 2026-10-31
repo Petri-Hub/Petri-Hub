@@ -88,15 +88,15 @@ Other tools I've developed with, at work or in personal projects:
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 46 hrs 5 mins
+Total Time: 45 hrs 25 mins
 
-Markdown       21 hrs 33 mins        ███████████▓░░░░░░░░░░░░░   46.78 %
-Python         4 hrs 53 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.59 %
-Javascript     3 hrs 59 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
-Bash           2 hrs 27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
-YAML           2 hrs 5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
-Luau           1 hrs 58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
-Html           1 hrs 48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
+Markdown       21 hrs 51 mins        ████████████░░░░░░░░░░░░░   48.12 %
+Javascript     3 hrs 59 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 %
+Python         3 hrs 53 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 %
+Bash           2 hrs 27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
+YAML           2 hrs 5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
+Luau           1 hrs 58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
+Html           1 hrs 48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
 ```
 
 <!--END_SECTION:waka-->
