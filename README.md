@@ -63,23 +63,11 @@ Other tools I've developed with, at work or in personal projects:
 >
 > `Hermes` `GPT` `MCP` `Modal` `Claude Code` `Docker` `Telegram Bot API` `Discord`
 
-> **🎓 [fam-mcp](https://github.com/Petri-Hub/fam-mcp)**
+> **🖋️ [plog](https://github.com/Petri-Hub/plog)**
 >
-> A read-only MCP server for FAM's student portal. It signs in as the student and gives an AI assistant structured access to grades, absences, assignments, schedules, exams, messages and finances.
+> My technical blog, published in Portuguese and English. A static Astro site with React components, strict TypeScript and Markdown posts, kept small enough to read in full. Every change arrives as a reviewed pull request, and coding agents work from rules written in the repository.
 >
-> `Python` `FastMCP` `MCP` `httpx` `Beautiful Soup` `uv`
-
-> **🧪 [roblox-with-swe](https://github.com/Petri-Hub/roblox-with-swe)**
->
-> A Roblox game built like any other software project: Luau in Git, a pinned toolchain, linting, and Jest regression tests running in Studio on Linux. Friends and an agent contribute through reviewed pull requests, with staging and production releases to come.
->
-> `Luau` `Roblox Studio` `Rojo` `Rokit` `Wally` `StyLua` `Selene` `Jest Roblox` `GitHub Actions` `Vinegar`
-
-> **📦 [roblox-assets-mcp](https://github.com/Petri-Hub/roblox-assets-mcp)**
->
-> A local MCP server that helps an AI assistant find reusable Roblox Creator Store assets. It searches models, audio and more, reads details and 2D previews, and returns temporary download URLs for the agent to fetch in its own workspace.
->
-> `Python` `FastMCP` `MCP` `httpx` `Pydantic` `uv` `Roblox Open Cloud`
+> `Astro` `React` `TypeScript` `Markdown` `Vercel` `Prettier` `Husky`
 
 <br>
 
