@@ -78,7 +78,7 @@ Other tools I've developed with, at work or in personal projects:
 ```rust
 Total Time: 45 hrs 21 mins
 
-Markdown     23 hrs 25 mins        █████████████░░░░░░░░░░░░   51.65 %
+Markdown     23 hrs 25 mins        █████████████░░░░░░░░░░░░   51.66 %
 Python       2 hrs 58 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
 YAML         2 hrs 35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 %
 Astro        2 hrs 26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
