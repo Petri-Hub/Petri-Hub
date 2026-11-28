@@ -76,15 +76,15 @@ Other tools I've developed with, at work or in personal projects:
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 42 hrs 7 mins
+Total Time: 40 hrs 7 mins
 
-Markdown     22 hrs 57 mins        █████████████▓░░░░░░░░░░░   54.51 %
-Astro        3 hrs 34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 %
-Python       2 hrs 52 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
-Typescript   2 hrs 24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
-YAML         2 hrs 7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
-TSX          1 hrs 27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
-Bash         1 hrs 24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+Markdown       21 hrs 13 mins        █████████████▒░░░░░░░░░░░   52.91 %
+Astro          4 hrs 10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 %
+Python         2 hrs 55 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
+Typescript     2 hrs 26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
+YAML           1 hrs 43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
+TSX            1 hrs 28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+Bash           1 hrs 21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
 ```
 
 <!--END_SECTION:waka-->
